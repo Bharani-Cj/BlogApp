@@ -1,8 +1,8 @@
 # BlogApp
 
 ### Pre requisites
-a- NodeJS /
-b- Express JS /
+a_NodeJS  
+b-Express JS <br/>
 c- MySQL database [Local storage] /
 4- ReactJs
 
