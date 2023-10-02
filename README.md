@@ -16,5 +16,7 @@
 3- axios <br/>
 
 ### Installation
-If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option. <br/>
-To run the backend server, Installing MySQL Workbench on your local system is recommended. <br/>
+1- If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option. <br/>
+2- To run the backend server, Installing MySQL Workbench on your local system is recommended. <br/>
+3- Please open the code in Visual Studio Code (VS Code).
+4- Before proceeding, please execute the 'createDatabase.js' script in MySQL -server.
